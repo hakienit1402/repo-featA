@@ -20,3 +20,13 @@ class NewProviderV3 {
 class NewProviderV4 {
   /* implementation */
 }
+
+// new provider v5.0
+
+class NewProviderV5 {
+  /* implementation */
+  // where is that in repo-featB
+  // this feature should be extracted in repo-featA
+  // this feature should be extracted in repo-featB
+  // this feature should be extracted in repo-featA
+}
