@@ -14,3 +14,9 @@ class NewProvider {
 class NewProviderV3 {
   /* implementation */
 }
+
+// New Provider V4.0
+
+class NewProviderV4 {
+  /* implementation */
+}
